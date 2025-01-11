@@ -1,1 +1,3 @@
-Week 01 -- Core Programming
+Day 01 :
+- Java Programming Elements
+- Submission of Level 1 and Level 2 Lab Practices
